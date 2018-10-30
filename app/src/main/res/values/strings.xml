@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SocketTest</string>
+
+
+    <string-array name="type">
+        <item>TCPClient</item>
+        <item>UDP</item>
+        <item>TCPServer</item>
+    </string-array>
+</resources>
